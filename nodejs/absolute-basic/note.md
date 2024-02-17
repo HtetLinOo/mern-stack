@@ -46,6 +46,8 @@ console.log(obj);
 const fs = require("fs");
 ```
 
+---
+
 ## 4. Stream and Buffer
 
 - stream and buffer က large file တေကို read/write လုပ်တဲ့အခါ သုံးတယ်
